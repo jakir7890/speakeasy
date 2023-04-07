@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909886661282",
+    "project_id": "speakeasy-a7730",
+    "storage_bucket": "speakeasy-a7730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909886661282:android:8bf75ccde10c048aac2dfb",
+        "android_client_info": {
+          "package_name": "com.example.speakeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909886661282-pqpbcplop8bmnjj5f72aak9h7d80m212.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakeasy",
+            "certificate_hash": "c87cdbddb88e3312f1194a482a9424b93c895126"
+          }
+        },
+        {
+          "client_id": "909886661282-cc4ccimvkp053o5ekgbdgunpm4rj092g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNe0YUTCPCurLUaTCH3o1bGUc3AKaOA5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909886661282-cc4ccimvkp053o5ekgbdgunpm4rj092g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
